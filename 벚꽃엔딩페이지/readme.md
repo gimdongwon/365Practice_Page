@@ -2,4 +2,4 @@
 
 # Float을 이용한 Css 구축
 
-![Cherrey Blossom]("cherreyblossom.png")
+![Cherrey Blossom]("./cherreyblossom.png")
