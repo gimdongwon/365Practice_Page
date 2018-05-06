@@ -8,16 +8,16 @@
 }
 
 .parent{
-	height: 150px;
-	width: 900px;
+	/*height: 150px;
+	width: 900px;*/
 	background-color: gray;
-	display: flex;
-	justify-content: space-between;
+	/*display: flex;
+	justify-content: space-between;*/
 
 }
 .redbox{
 	background-color: #f00;
-	width:200px;
+	width:100%;
 
 }
 
